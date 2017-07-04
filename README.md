@@ -1,2 +1,2 @@
-# linux-commands
-Recopilación de comandos linux.
+# Linux commands
+La recopilación definitiva de comandos linux.
